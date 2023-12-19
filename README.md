@@ -7,3 +7,6 @@ Repositorio de una pagina web sobre el uso de herramientas automatizadas para la
 https://github.com/yaelrdf/Teoria-Informatica-Ordinario3-Trabajo-Final
 
 ## Reparticion de temas
+1. **Guillermo Torres Luna**
+   - Case integrated
+
