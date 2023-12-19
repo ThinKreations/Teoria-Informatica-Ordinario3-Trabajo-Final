@@ -7,6 +7,11 @@ Repositorio de una pagina web sobre el uso de herramientas automatizadas para la
 https://1drv.ms/w/s!Al4qHUw1X4aFgrQ7I1fEv_VhtfZoZg?e=b1udYY
 
 ## Reparticion de temas
-1. **Guillermo Torres Luna**
+1. **El memo**
    - Case integrated
-1.
+1. **El Axel**
+   - Case lower
+1. **El napo**
+    - Case upper
+1. **El Yael**
+    - Que es y su finalidad
